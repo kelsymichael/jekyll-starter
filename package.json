@@ -1,0 +1,27 @@
+{
+  "name": "jekyll-starter",
+  "version": "1.0.0",
+  "description": "Simple jekyll starter with stylus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelsymichael/jekyll-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelsymichael/jekyll-starter/issues"
+  },
+  "homepage": "https://github.com/kelsymichael/jekyll-starter#readme",
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-shell": "^0.5.2",
+    "gulp-uncss": "^1.0.6",
+    "lodash": "^4.16.5"
+  }
+}
