@@ -22,3 +22,6 @@ markdown: kramdown
 
 stylus:
   path: _stylus
+
+exclude:
+- node_modules
