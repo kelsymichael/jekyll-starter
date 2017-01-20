@@ -9,3 +9,6 @@ Simple Jekyll starter with [Stylus](http://stylus-lang.com) & [Skeleton](http://
 - add `skeleton.styl` [(src)](https://github.com/7anshuai/Skeleton-stylus)
 - add `_plugins` folder with `stylus_converter.rb` [(src)](https://gist.github.com/adamjspooner/988201)
 - add `gulpfile.js` with basic build/concat settings
+
+TODO //
+update classes
