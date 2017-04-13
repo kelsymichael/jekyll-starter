@@ -1,6 +1,7 @@
 # jekyll-starter
 Simple Jekyll starter with [Stylus](http://stylus-lang.com) & [Skeleton](http://getskeleton.com)
 
+![theme screenshot](/../testing/theme.png?raw=true)
 ---
 ####This template started with the base Jekyll build (`jekyll new jekyll-starter`), then modified the following:
 - replace scss with stylus
