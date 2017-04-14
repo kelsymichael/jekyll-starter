@@ -369,7 +369,9 @@ code {
   margin: 0 0.2rem;
   font-size: 1.5rem;
   white-space: nowrap;
+  background: #3e3e3e;
   border-radius: 4px;
+  color: #fff;
 }
 pre > code {
   display: block;
