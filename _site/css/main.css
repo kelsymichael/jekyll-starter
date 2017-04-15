@@ -2,6 +2,7 @@
   position: relative;
   width: 100%;
   max-width: 960px;
+  max-width: 660px;
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box;
@@ -651,5 +652,34 @@ hr {
 }
 figure {
   border-radius: 5px;
-  border-left: 10px solid #1e90ff;
+  border-left: 5px solid #1e90ff;
+  padding-left: 1.8rem;
+}
+.page-heading,
+.post-title {
+  font-family: serif;
+}
+.footer-heading {
+  font-size: 2rem;
+  font-variant: small-caps;
+  color: rgba(0,0,0,0.35);
+}
+a {
+  text-decoration: none;
+  font-weight: 600;
+}
+h2 a {
+  font-size: 2.8rem;
+  font-weight: 500;
+}
+li {
+  font-weight: 500;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #000;
+}
+nav {
+  align-self: flex-end;
 }
