@@ -675,11 +675,8 @@ h2 a {
 li {
   font-weight: 500;
 }
-.header-container {
+.site-nav {
   display: flex;
   justify-content: space-between;
-  border: 1px solid #000;
-}
-nav {
-  align-self: flex-end;
+  margin-bottom: 1.5rem;
 }
