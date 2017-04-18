@@ -680,3 +680,10 @@ li {
   justify-content: space-between;
   margin-bottom: 1.5rem;
 }
+.site-title {
+  color: #3e3e3e;
+}
+.page-link {
+  color: #3e3e3e;
+  text-transform: uppercase;
+}
